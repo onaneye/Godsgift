@@ -1,6 +1,6 @@
 'use client'
 import Image from 'next/image'
-import aboutImg from '/public/images/slider2.jpg'
+import aboutImg from './public/images/slider2.jpg'
 
 const About = () => {
   return (
